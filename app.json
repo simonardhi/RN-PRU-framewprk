@@ -1,0 +1,30 @@
+{
+  "expo": {
+    "name": "PRU-FRAMEWORK PROTOTYPE CONCEPT",
+    "slug": "PruFramework",
+    "privacy": "public",
+    "sdkVersion": "32.0.0",
+    "platforms": [
+      "ios",
+      "android"
+    ],
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/images/icons/icon1024.png",
+    "splash": {
+      "image": "./assets/images/splash/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "githubUrl": "https://github.com/simonardhi/RN-PRU-framewprk.git",
+    "ios": {
+      "supportsTablet": true
+    }
+  }
+}
